@@ -1,0 +1,7 @@
+/**
+ * Admin styles for LiveOnCrypto for WooCommerce.
+ * Placeholder selectors are intentionally minimal until diagnostics UI is expanded.
+ */
+.liveoncrypto-wc-diagnostics {
+	max-width: 960px;
+}
